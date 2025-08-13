@@ -1,0 +1,1 @@
+Designed and deployed a real-time object detection web application using the pretrained YOLOv8n model. Integrated with Streamlit for interactive UI and enabled users to upload or capture images to detect multiple object classes. Achieved ~37% mAP on the COCO dataset using YOLOv8n, showcasing strong object localization and classification capabilities. 
